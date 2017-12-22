@@ -1,4 +1,4 @@
-# Text Based Golf Game
+# Text Based Catapult Game
 
 Author: Zubair Ab Aziz
 Assignment: Project 1
